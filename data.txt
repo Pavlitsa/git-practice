@@ -1,0 +1,3 @@
+Name: Pavlina
+Age: 25
+Nickname: Pavi
